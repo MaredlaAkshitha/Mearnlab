@@ -51,7 +51,6 @@ Desktop.ini
 
 # React
 .cache/
-public/
 .eslintcache
 
 # Temporary files
