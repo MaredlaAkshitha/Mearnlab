@@ -1,0 +1,16 @@
+{
+  "name": "akshitha",
+  "version": "1.0.0",
+  "description": "\"this is my first js project\"",
+  "main": "4",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"akshitha\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "url": "^0.11.4"
+  }
+}
